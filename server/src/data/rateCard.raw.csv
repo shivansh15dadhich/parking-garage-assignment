@@ -1,0 +1,12 @@
+Spot Type, First Hour, Extra Hour, Daily Cap
+compact , $50.00 , $30.00 ,250
+Compact,50,30,250
+STANDARD,₹60, ₹35 ,280
+std,60,35,280
+ev,$80,$45,350
+Electric,80.00,45.00,350
+
+Compact,999,999,999
+compact,50,30,250
+unknown,10,10,10
+Standard,60,35,

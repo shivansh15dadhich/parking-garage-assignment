@@ -1,0 +1,4 @@
+node_modules/
+.env
+parking.db
+parking.db-*
